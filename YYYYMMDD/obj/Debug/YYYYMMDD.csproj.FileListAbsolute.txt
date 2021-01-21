@@ -1,0 +1,6 @@
+C:\Users\ChaseSouder\source\repos\YYYYMMDD\YYYYMMDD\bin\Debug\YYYYMMDD.dll
+C:\Users\ChaseSouder\source\repos\YYYYMMDD\YYYYMMDD\bin\Debug\YYYYMMDD.pdb
+C:\Users\ChaseSouder\source\repos\YYYYMMDD\YYYYMMDD\obj\Debug\YYYYMMDD.csprojAssemblyReference.cache
+C:\Users\ChaseSouder\source\repos\YYYYMMDD\YYYYMMDD\obj\Debug\YYYYMMDD.csproj.CoreCompileInputs.cache
+C:\Users\ChaseSouder\source\repos\YYYYMMDD\YYYYMMDD\obj\Debug\YYYYMMDD.dll
+C:\Users\ChaseSouder\source\repos\YYYYMMDD\YYYYMMDD\obj\Debug\YYYYMMDD.pdb
